@@ -6,7 +6,7 @@ const  categories = [
       imoveis: [
         {
           titulo: "Apartamento 2 quartos blablabla",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/300?v=1',
           quartos: 2,
           suites: 1,
           vagasGaragem: 1, 
@@ -16,7 +16,7 @@ const  categories = [
         },
         {
           titulo: "Casa espaçosa no centro",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/300?v=2',
           quartos: 3,
           suites: 2,
           vagasGaragem: 2, 
@@ -26,7 +26,7 @@ const  categories = [
         },
         {
           titulo: "Cobertura luxuosa",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/300?v=3',
           quartos: 4,
           suites: 3,
           vagasGaragem: 3, 
@@ -36,7 +36,7 @@ const  categories = [
         },
         {
           titulo: "Apartamento compacto",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=4',
           quartos: 1,
           suites: 1,
           vagasGaragem: 1, 
@@ -46,7 +46,7 @@ const  categories = [
         },
         {
           titulo: "Mansão modernista",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=5',
           quartos: 5,
           suites: 4,
           vagasGaragem: 4, 
@@ -62,7 +62,7 @@ const  categories = [
       imoveis: [
         {
           titulo: "Duplex no bairro nobre",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=6',
           quartos: 3,
           suites: 2,
           vagasGaragem: 2, 
@@ -72,7 +72,7 @@ const  categories = [
         },
         {
           titulo: "Kitnet compacta para investimento",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=7',
           quartos: 1,
           suites: 0,
           vagasGaragem: 0, 
@@ -82,7 +82,7 @@ const  categories = [
         },
         {
           titulo: "Sobrado com edícula",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=8',
           quartos: 3,
           suites: 1,
           vagasGaragem: 2, 
@@ -92,7 +92,7 @@ const  categories = [
         },
         {
           titulo: "Apartamento de alto padrão",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=9',
           quartos: 4,
           suites: 3,
           vagasGaragem: 3, 
@@ -102,7 +102,7 @@ const  categories = [
         },
         {
           titulo: "Casa térrea em condomínio",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=10',
           quartos: 2,
           suites: 1,
           vagasGaragem: 2, 
@@ -118,7 +118,7 @@ const  categories = [
       imoveis: [
         {
           titulo: "Loft moderno no centro",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=11',
           quartos: 1,
           suites: 1,
           vagasGaragem: 1, 
@@ -128,7 +128,7 @@ const  categories = [
         },
         {
           titulo: "Casa com quintal amplo",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=12',
           quartos: 3,
           suites: 2,
           vagasGaragem: 3, 
@@ -138,7 +138,7 @@ const  categories = [
         },
         {
           titulo: "Apartamento vista para o mar",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=13',
           quartos: 2,
           suites: 1,
           vagasGaragem: 2, 
@@ -148,7 +148,7 @@ const  categories = [
         },
         {
           titulo: "Studio para investimento",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=14',
           quartos: 1,
           suites: 0,
           vagasGaragem: 1, 
@@ -158,7 +158,7 @@ const  categories = [
         },
         {
           titulo: "Chácara com piscina",
-          imgUrl: 'https://picsum.photos/200',
+          imgUrl: 'https://picsum.photos/200?v=15',
           quartos: 4,
           suites: 2,
           vagasGaragem: 4, 

@@ -26,3 +26,22 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+.property-description {}
+
+/* .swiper {
+	width: 100%;
+} */
+
+/* classe utilitaria, que é usado so para flex */
+/* .flex {
+	display: flex;
+}
+
+.gap-20 {
+	gap: 20px;
+}
+
+.bg-CTA{
+	background-color: var(--CTA-color);
+} */

@@ -9,13 +9,15 @@ function App() {
   
   return (
     <>
-    <div>
+    <div >
       <header>Navbar</header>
       <main>
         <Hero/>
         <section>
           Categorias
+          <div className='flex flex-col gap-y-2.5'>
           {categories.map((category) => <Category key={category.id} category={category}/>)}
+          </div>
         </section>
       </main>
       <footer>All rights reserved</footer>
