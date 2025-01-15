@@ -2,10 +2,10 @@ function CardImovel({imovel}) {
 
     return (
         <div>
-            <p>{imovel.titulo}</p>
-            <img src={imovel.imgUrl} alt={imovel.titulo} />
-            <div className="flex flex-col gap-y-1.5">
-                <div className="flex gap-x-2">
+            <p className="p-4">{imovel.titulo}</p>
+            <img className="h-full w-full object-cover rounded-md" src={imovel.imgUrl} alt={imovel.titulo} />
+            <div className="flex flex-col gap-y-1.5 p-4">
+                <div className="flex gap-x-2 rounded bg-indigo-500">
                     <p> Quarto:{imovel.quartos}</p>
                     <p> Suíte:{imovel.suites}</p>                        
                 </div>

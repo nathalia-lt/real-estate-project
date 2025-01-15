@@ -12,7 +12,7 @@ function Category ( {category} ){
             <Swiper className="w-full" modules={[Navigation, Pagination, Scrollbar]} spaceBetween={10} slidesPerView={1} navigation pagination={{ clickable: true }}
             scrollbar={{ draggable: true }}>
                 {category.imoveis.map((imovel, index) => (
-                    <SwiperSlide key={index}>
+                    <SwiperSlide  key={index}>
                         <CardImovel imovel={imovel} />
                     </SwiperSlide>
                 ))}
