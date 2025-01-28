@@ -37,12 +37,13 @@ footer, header, hgroup, menu, nav, section {
 * {
 	--accent-color: #753A53;
 	--CTA-color: #926176;
-  --secondary-color: #d6a26f;
-  --background-color:#Dee0e3;
-  --zap-color: #25D366;
-  --instagram-color: #E4405F; 
+	--secondary-color: #d6a26f;
+	--background-color:#f5f5f5;
+	--zap-color: #25D366;
+	--instagram-color: #E4405F; 
 }
 
 body{
   font-family: "Roboto", serif;
+  background-color: var(--background-color);
 }
